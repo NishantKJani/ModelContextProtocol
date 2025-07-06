@@ -14,3 +14,5 @@ Using Claude to connect to my Kite-Zerodha account via MCP
  ```
 3. Restart Claude desktop & authenticate to Kite.
 4. Upon successful authentication be able to view & query data from Kite account into Claude
+
+I have also performed some portfolio queries which are attached: Portfolio_query1.png & Portfolio_query2.png
